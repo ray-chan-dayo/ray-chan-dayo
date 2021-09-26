@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ray-chan-dayo
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on My Private Repository
-- 📫 How to reach me: send pull request on this repository!
+驚くほど自堕落
 
 <!---
 ray-chan-dayo/ray-chan-dayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
