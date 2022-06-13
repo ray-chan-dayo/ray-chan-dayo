@@ -1,7 +1,35 @@
-ゆっくりと壊していく
-わだかまりも、つながりも
+ray-chan-dayo is a beginner programmer.
 
-驚くほど自堕落
+"Language_list" : {
+
+　　"Japanese" : "native",
+  
+  
+　　"English" : "conversation",
+  
+  
+　　"Javascript" : "hobbyist",
+  
+  
+　　"Node.js" : "hobbyist",
+  
+  
+　　"Python" : "copy-paste",
+  
+  
+　　"C# : "copy-paste",
+  
+  
+　　"VBS" : "copy-paste",
+  
+  
+　　"Español" : "greeting",
+  
+  
+　　"Chinese" : "greeting"
+  
+  
+}
 <!---
 ray-chan-dayo/ray-chan-dayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
