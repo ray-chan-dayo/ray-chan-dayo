@@ -1,4 +1,4 @@
-let ray-chan-dayo = beginner programmer.
+let ray-chan-dayo = "beginner programmer";
 
 ray-chan-dayo.languages = {
 
