@@ -1,6 +1,6 @@
-ray-chan-dayo is a beginner programmer.
+let ray-chan-dayo = beginner programmer.
 
-"Language_list" : {
+ray-chan-dayo.languages = {
 
 　　"Japanese" : "native",
   
